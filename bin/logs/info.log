@@ -1,0 +1,26 @@
+2020-02-11 13:26:14 - Please select pcap!
+2020-02-11 13:26:30 - The pcap file or folder does not exist! -> -help
+2020-02-11 13:27:16 - Please select output folder!
+2020-02-11 13:27:29 - You select: /home/adrian/Desktop/InvestigaciónEscaneos/-sA.pcap
+2020-02-11 13:27:29 - Out folder: /home/adrian/Desktop/
+2020-02-11 13:27:29 - CICFlowMeter received 1 pcap file
+2020-02-11 13:28:30 - You select: /home/adrian/Desktop/InvestigaciónEscaneos/sA.pcap
+2020-02-11 13:28:30 - Out folder: /home/adrian/Desktop/
+2020-02-11 13:28:30 - CICFlowMeter received 1 pcap file
+2020-03-11 08:37:31 - Please select pcap!
+2020-03-11 08:39:09 - You select: test.pcap
+2020-03-11 08:39:09 - Out folder: -o
+2020-03-11 08:39:10 - CICFlowMeter received 1 pcap file
+2020-03-11 08:39:36 - You select: test.pcap
+2020-03-11 08:39:36 - Out folder: test.csv
+2020-03-11 08:39:36 - CICFlowMeter received 1 pcap file
+2020-03-11 08:39:53 - You select: test.pcap
+2020-03-11 08:39:53 - Out folder: test
+2020-03-11 08:39:53 - CICFlowMeter received 1 pcap file
+2020-03-11 08:40:01 - Please select output folder!
+2020-03-11 08:40:07 - You select: test.pcap
+2020-03-11 08:40:07 - Out folder: output
+2020-03-11 08:40:07 - CICFlowMeter received 1 pcap file
+2020-03-11 12:31:21 - You select: ataque.pcap
+2020-03-11 12:31:21 - Out folder: output
+2020-03-11 12:31:21 - CICFlowMeter received 1 pcap file
